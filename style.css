@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+/**Nav Bar Code Start **/  
+ .navbar-nav .nav-link {
+    color: white;
+    font-family: 'Pacifico', cursive;
+}
+.navbar-brand{
+    color: white;
+    font-family: 'Pacifico', cursive;
+    letter-spacing: 2px;
+}
+.navbar-brand:hover{
+    color: white;
+}
+
+.fa-bars:before {
+    color: white;
+}
+
+/**Nav Bar Code End **/  
+
+
+.creadittitle{
+    margin-top: 200px;
+    font-family: 'Pacifico', cursive;
+}
+.creadit{
+    font-family: 'Pacifico', cursive;
+}
+
